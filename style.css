@@ -72,6 +72,8 @@ section {
 }
 
 .home-img img {
+    margin-left: auto;
+    margin-right: auto;
     float: left;
     width: 250px;
     height: 250px;
@@ -166,6 +168,8 @@ span {
 }
 
 .about-img img {
+    margin-left: auto;
+    margin-right: auto;
     width: 35vw;
     border: 2px solid;
 }
